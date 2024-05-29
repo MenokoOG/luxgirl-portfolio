@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import images from '../imageData';
 import '../ArtGallery.css';
 
@@ -30,8 +30,13 @@ const ArtGallery = () => {
 
       {selectedImage && (
         <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-20" onClick={closeModal}>
-          <div className="relative">
-            <button className="absolute top-2 right-2 text-white text-2xl" onClick={closeModal}>&times;</button>
+          <div className="relative" onClick={(e) => e.stopPropagation()}>
+            <button
+              className="absolute top-2 right-2 bg-white text-black text-3xl font-bold rounded-full p-2 hover:bg-gray-200"
+              onClick={closeModal}
+            >
+              &times;
+            </button>
             <img src={selectedImage} alt="Selected Art" className="max-w-full max-h-full" />
           </div>
         </div>
