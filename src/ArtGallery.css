@@ -1,8 +1,4 @@
-.background-image {
-  background-image: url('../public/dark%20pearly%20textured.png');
-  background-size: cover;
-  background-position: center;
-}
+
 
 .fade-in {
   animation: fadeIn 2s ease-in-out;
