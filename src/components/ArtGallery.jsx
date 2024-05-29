@@ -1,12 +1,12 @@
-// ArtGallery.jsx
 import React from 'react';
 import images from '../imageData';
+import '../ArtGallery.css'; // Import the CSS file for animations
 
 const ArtGallery = () => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
       {images.map((src, index) => (
-        <div key={index} className="bg-white p-2 rounded shadow-lg">
+        <div key={index} className="bg-white p-2 rounded shadow-lg fade-in">
           <img
             src={src}
             alt={`Art ${index + 1}`}
