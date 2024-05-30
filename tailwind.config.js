@@ -6,6 +6,8 @@ module.exports = {
     extend: {
       fontFamily: {
         creative: ['Lobster', 'cursive'],
+        lobster: ['Lobster', 'cursive'],
+        poppins: ['Poppins', 'sans-serif'],
       },
     },
   },

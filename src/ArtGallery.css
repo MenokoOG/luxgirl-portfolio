@@ -25,3 +25,30 @@
   transition: transform 1s;
   backface-visibility: hidden;
 }
+/* ArtGallery.css */
+.background-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scroll-container {
+  display: flex;
+  overflow-x: scroll;
+  gap: 1rem;
+  cursor: grab;
+}
+
+.scroll-container:active {
+  cursor: grabbing;
+}
+
+.image-card {
+  min-width: 300px; /* Adjust as needed */
+  flex-shrink: 0;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
