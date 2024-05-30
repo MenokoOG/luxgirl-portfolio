@@ -86,14 +86,59 @@ import art86 from "./images/witch6.png"
 import art87 from "./images/witch7.png"
 import art88 from "./images/woman fighting demons in Hell..png"
 import art89 from "./images/yet eerie Tooth Fairy and the Sandman slow dancing.png"
-// import art90 from "./images"
-// import art91 from "./images"
-// import art92 from "./images"
-// import art93 from "./images"
-// import art94 from "./images"
-// import art95 from "./images"
-// import art96 from "./images"
-// import art97 from "./images"
+import art90 from "./images/53024/img90.png"
+import art91 from "./images/53024/img91.png"
+import art92 from "./images/53024/img92.png"
+import art93 from "./images/53024/img93.png"
+import art94 from "./images/53024/img94.png"
+import art95 from "./images/53024/img95.png"
+import art96 from "./images/53024/img96.png"
+import art97 from "./images/53024/img97.png"
+import art98 from "./images/53024/img98.png"
+import art99 from "./images/53024/img99.png"
+import art100 from "./images/53024/img100.png"
+import art101 from "./images/53024/img101.png"
+import art102 from "./images/53024/img102.png"
+import art103 from "./images/53024/img103.png"
+import art104 from "./images/53024/img104.png"
+import art105 from "./images/53024/img105.png"
+import art106 from "./images/53024/img106.png"
+import art107 from "./images/53024/img107.png"
+import art108 from "./images/53024/img108.png"
+import art109 from "./images/53024/img109.png"
+import art110 from "./images/53024/img110.png"
+import art111 from "./images/53024/img111.png"
+import art112 from "./images/53024/img112.png"
+import art113 from "./images/53024/img113.png"
+import art114 from "./images/53024/img114.png"
+import art115 from "./images/53024/img115.png"
+import art116 from "./images/53024/img116.png"
+import art117 from "./images/53024/img117.png"
+import art118 from "./images/53024/img118.png"
+import art119 from "./images/53024/img119.png"
+import art120 from "./images/53024/img120.png"
+import art121 from "./images/53024/img121.png"
+import art122 from "./images/53024/img122.png"
+import art123 from "./images/53024/img123.png"
+import art124 from "./images/53024/img124.png"
+import art125 from "./images/53024/img125.png"
+import art126 from "./images/53024/img126.png"
+// import art127 from "./images"
+// import art128 from "./images"
+// import art129 from "./images"
+// import art130 from "./images"
+// import art131 from "./images"
+// import art132 from "./images"
+// import art133 from "./images"
+// import art134 from "./images"
+// import art135 from "./images"
+// import art136 from "./images"
+// import art137 from "./images"
+// import art138 from "./images"
+// import art139 from "./images"
+// import art140 from "./images"
+
+
 
 
 const images = [
@@ -185,6 +230,57 @@ const images = [
   art87,
   art88,
   art89,
+  art90,
+  art91,
+  art92,
+  art93,
+  art94,
+  art95,
+  art96,
+  art97,
+  art98,
+  art99,
+  art100,
+  art101,
+  art102,
+  art103,
+  art104,
+  art105,
+  art106,
+  art107,
+  art108,
+  art109,
+  art110,
+  art111,
+  art112,
+  art113,
+  art114,
+  art115,
+  art116,
+  art117,
+  art118,
+  art119,
+  art120,
+  art121,
+  art122,
+  art123,
+  art124,
+  art125,
+  art126,
+  // art127,
+  // art128,
+  // art129,
+  // art130,
+  // art131,
+  // art132,
+  // art133,
+  // art134,
+  // art135,
+  // art136,
+  // art137,
+  // art138,
+  // art139,
+  // art140,
 
   // Add more image imports here
 ];
