@@ -16,11 +16,11 @@ const ArtGallery = () => {
   };
 
   const handleNext = () => {
-    setCurrentPage((prevPage) => Math.min(prevPage + 1, Math.ceil(images.length / imagesPerPage) - 1));
+    setCurrentPage((prevPage) => (prevPage + 1) % Math.ceil(images.length / imagesPerPage));
   };
 
   const handlePrev = () => {
-    setCurrentPage((prevPage) => Math.max(prevPage - 1, 0));
+    setCurrentPage((prevPage) => (prevPage - 1 + Math.ceil(images.length / imagesPerPage)) % Math.ceil(images.length / imagesPerPage));
   };
 
   const displayedImages = images.slice(currentPage * imagesPerPage, (currentPage + 1) * imagesPerPage);
@@ -41,18 +41,16 @@ const ArtGallery = () => {
       </div>
 
       <button
-        className={`fixed top-1/2 transform -translate-y-1/2 left-4 bg-white text-black p-2 rounded ${currentPage === 0 ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-200'}`}
+        className="fixed top-1/2 transform -translate-y-1/2 left-4 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white p-3 rounded-full shadow-lg hover:from-purple-500 hover:via-pink-600 hover:to-red-600"
         onClick={handlePrev}
-        disabled={currentPage === 0}
       >
-        &larr; Previous
+        &larr;
       </button>
       <button
-        className={`fixed top-1/2 transform -translate-y-1/2 right-4 bg-white text-black p-2 rounded ${currentPage === Math.ceil(images.length / imagesPerPage) - 1 ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-200'}`}
+        className="fixed top-1/2 transform -translate-y-1/2 right-4 bg-gradient-to-r from-blue-400 via-green-500 to-yellow-500 text-white p-3 rounded-full shadow-lg hover:from-blue-500 hover:via-green-600 hover:to-yellow-600"
         onClick={handleNext}
-        disabled={currentPage === Math.ceil(images.length / imagesPerPage) - 1}
       >
-        Next &rarr;
+        &rarr;
       </button>
 
       {selectedImage && (
