@@ -123,20 +123,36 @@ import art123 from "./images/53024/img123.png"
 import art124 from "./images/53024/img124.png"
 import art125 from "./images/53024/img125.png"
 import art126 from "./images/53024/img126.png"
-// import art127 from "./images"
-// import art128 from "./images"
-// import art129 from "./images"
-// import art130 from "./images"
-// import art131 from "./images"
-// import art132 from "./images"
-// import art133 from "./images"
-// import art134 from "./images"
-// import art135 from "./images"
-// import art136 from "./images"
-// import art137 from "./images"
-// import art138 from "./images"
-// import art139 from "./images"
-// import art140 from "./images"
+import art127 from "./images/53124_images/img127.png"
+import art128 from "./images/53124_images/img128.png"
+import art129 from "./images/53124_images/img129.png"
+import art130 from "./images/53124_images/img130.png"
+import art131 from "./images/53124_images/img131.png"
+import art132 from "./images/53124_images/img132.png"
+import art133 from "./images/53124_images/img133.png"
+import art134 from "./images/53124_images/img134.png"
+import art135 from "./images/53124_images/img135.png"
+import art136 from "./images/53124_images/img136.png"
+import art137 from "./images/53124_images/img137.png"
+import art138 from "./images/53124_images/img138.png"
+import art139 from "./images/53124_images/img139.png"
+import art140 from "./images/53124_images/img140.png"
+import art141 from "./images/53124_images/img141.png"
+import art142 from "./images/53124_images/img142.png"
+import art143 from "./images/53124_images/img143.png"
+import art144 from "./images/53124_images/img144.png"
+import art145 from "./images/53124_images/img145.png"
+import art146 from "./images/53124_images/img146.png"
+import art147 from "./images/53124_images/img147.png"
+import art148 from "./images/53124_images/img148.png"
+import art149 from "./images/53124_images/img149.png"
+import art150 from "./images/53124_images/img150.png"
+import art151 from "./images/53124_images/img151.png"
+import art152 from "./images/53124_images/img152.png"
+import art153 from "./images/53124_images/img153.png"
+import art154 from "./images/53124_images/img154.png"
+import art155 from "./images/53124_images/img155.png"
+import art156 from "./images/53124_images/img156.png"
 
 
 
@@ -267,20 +283,36 @@ const images = [
   art124,
   art125,
   art126,
-  // art127,
-  // art128,
-  // art129,
-  // art130,
-  // art131,
-  // art132,
-  // art133,
-  // art134,
-  // art135,
-  // art136,
-  // art137,
-  // art138,
-  // art139,
-  // art140,
+  art127,
+  art128,
+  art129,
+  art130,
+  art131,
+  art132,
+  art133,
+  art134,
+  art135,
+  art136,
+  art137,
+  art138,
+  art139,
+  art140,
+  art141,
+  art142,
+  art143,
+  art144,
+  art145,
+  art146,
+  art147,
+  art148,
+  art149,
+  art150,
+  art151,
+  art152,
+  art153,
+  art154,
+  art155,
+  art156,
 
   // Add more image imports here
 ];
