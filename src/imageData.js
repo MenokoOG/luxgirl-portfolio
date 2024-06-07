@@ -1,161 +1,160 @@
 import art1 from './images/1930s of a beautiful yet eerie Tooth Fairy .png';
-import art2 from './images/a dark starry .png';
-import art3 from './images/A Hawaiian girl standing in a Diablo 4 setting.png';
-import art4 from "./images/A Hawaiian girl standing in a scary sleep experiment setting.png"
-import art5 from "./images/A Hawaiian girl standing in a Silent Hill setting .png"
-import art6 from "./images/A Hawaiian girl standing in an Atlantis .png"
-import art7 from "./images/A high contrast, gothic- The Tooth.png"
-import art8 from "./images/A sketch of a Tree of Life .png"
-import art9 from "./images/a vintage air.png"
-import art10 from "./images/anime_inernal.png"
-import art11 from "./images/Annabelle cursed doll dancing on the moon.png"
-import art12 from "./images/atmosphere is dark.png"
-import art13 from "./images/badass art.png"
-import art14 from "./images/battle between.png"
-import art15 from "./images/inside a vintage.png"
-import art16 from "./images/big-sister.png"
-import art17 from "./images/body and.png"
-import art18 from "./images/children demon hunter in Hell.png"
-import art19 from "./images/Chucky in a graveyard .png"
-import art20 from "./images/chucky-little-sister-big-daddy .png"
-import art21 from './images/covered with f.png';
-import art22 from './images/deep regret and introspection. He.png';
-import art23 from "./images/dense with tall.png"
-import art24 from "./images/fierce battle takes place in the ocea.png"
-import art25 from "./images/fiery, infernal landscape with towering flames,.png"
-import art26 from "./images/fight.png"
-import art27 from "./images/forest is dense with tall, shadowy trees and the groun.png"
-import art28 from "./images/glowings fruit.png"
-import art29 from "./images/Gothic style The hourglass .png"
-import art30 from "./images/ground is cover.png"
-import art31 from "./images/he scene is somber and emotional, with the main.png"
-import art32 from "./images/helping a soldier.png"
-import art33 from "./images/helping a soldier2.png"
-import art34 from "./images/helping a soldier3.png"
-import art35 from "./images/holy big daddy.png"
-import art36 from "./images/hourglass1.png"
-import art37 from "./images/infernal landscap.png"
-import art38 from "./images/jail1.png"
-import art39 from "./images/jail2.png"
-import art40 from './images/jail3.png';
-import art41 from './images/joined1.png';
-import art42 from "./images/joined2.png"
-import art43 from "./images/joined3.png"
-import art44 from "./images/joined4.png"
-import art45 from "./images/joined5.png"
-import art46 from "./images/joined6.png"
-import art47 from "./images/joined7.png"
-import art48 from "./images/joined8.png"
-import art49 from "./images/joined9.png"
-import art50 from "./images/little-sister-show.png"
-import art51 from "./images/molten lava ins.png"
-import art52 from "./images/neon sketch of Zeus fighting a moon goddess.png"
-import art53 from "./images/orror movie. The atmosphere is dark.png"
-import art54 from "./images/post-apocalyptic elements. T.png"
-import art55 from "./images/reaper1.png"
-import art56 from "./images/reaper2.png"
-import art57 from "./images/Sandman slow dancing in the streets of New York at night.png"
-import art58 from "./images/scaled tail.png"
-import art59 from './images/shadowy trees, and the ground is cove.png';
-import art60 from './images/shogun-eternal.png';
-import art61 from "./images/sitting in.png"
-import art62 from "./images/smile.png"
-import art63 from "./images/smoke.png"
-import art64 from "./images/spooky.png"
-import art65 from "./images/steampunk cityscape love.png"
-import art66 from "./images/sunlight, is perched near one.png"
-import art67 from "./images/sunset, casting long shadows and a golde.png"
-import art68 from "./images/the dance two.png"
-import art69 from "./images/the dance.png"
-import art70 from "./images/The forest is dense with.png"
-import art71 from "./images/towering flames, jagged.png"
-import art72 from "./images/Vicorian elementsfight.png"
-import art73 from "./images/Victorian elements..png"
-import art74 from "./images/Victorian elementsfire.png"
-import art75 from "./images/walk1.png"
-import art76 from "./images/walk2.png"
-import art77 from "./images/walk3.png"
-import art79 from './images/walk4.png';
-import art80 from './images/warmly lit room.png';
-import art81 from "./images/witch1.png"
-import art82 from "./images/witch2.png"
-import art83 from "./images/witch3.png"
-import art84 from "./images/witch4.png"
-import art85 from "./images/witch5.png"
-import art86 from "./images/witch6.png"
-import art87 from "./images/witch7.png"
-import art88 from "./images/woman fighting demons in Hell..png"
-import art89 from "./images/yet eerie Tooth Fairy and the Sandman slow dancing.png"
-import art90 from "./images/53024/img90.png"
-import art91 from "./images/53024/img91.png"
-import art92 from "./images/53024/img92.png"
-import art93 from "./images/53024/img93.png"
-import art94 from "./images/53024/img94.png"
-import art95 from "./images/53024/img95.png"
-import art96 from "./images/53024/img96.png"
-import art97 from "./images/53024/img97.png"
-import art98 from "./images/53024/img98.png"
-import art99 from "./images/53024/img99.png"
-import art100 from "./images/53024/img100.png"
-import art101 from "./images/53024/img101.png"
-import art102 from "./images/53024/img102.png"
-import art103 from "./images/53024/img103.png"
-import art104 from "./images/53024/img104.png"
-import art105 from "./images/53024/img105.png"
-import art106 from "./images/53024/img106.png"
-import art107 from "./images/53024/img107.png"
-import art108 from "./images/53024/img108.png"
-import art109 from "./images/53024/img109.png"
-import art110 from "./images/53024/img110.png"
-import art111 from "./images/53024/img111.png"
-import art112 from "./images/53024/img112.png"
-import art113 from "./images/53024/img113.png"
-import art114 from "./images/53024/img114.png"
-import art115 from "./images/53024/img115.png"
-import art116 from "./images/53024/img116.png"
-import art117 from "./images/53024/img117.png"
-import art118 from "./images/53024/img118.png"
-import art119 from "./images/53024/img119.png"
-import art120 from "./images/53024/img120.png"
-import art121 from "./images/53024/img121.png"
-import art122 from "./images/53024/img122.png"
-import art123 from "./images/53024/img123.png"
-import art124 from "./images/53024/img124.png"
-import art125 from "./images/53024/img125.png"
-import art126 from "./images/53024/img126.png"
-import art127 from "./images/53124_images/img127.png"
-import art128 from "./images/53124_images/img128.png"
-import art129 from "./images/53124_images/img129.png"
-import art130 from "./images/53124_images/img130.png"
-import art131 from "./images/53124_images/img131.png"
-import art132 from "./images/53124_images/img132.png"
-import art133 from "./images/53124_images/img133.png"
-import art134 from "./images/53124_images/img134.png"
-import art135 from "./images/53124_images/img135.png"
-import art136 from "./images/53124_images/img136.png"
-import art137 from "./images/53124_images/img137.png"
-import art138 from "./images/53124_images/img138.png"
-import art139 from "./images/53124_images/img139.png"
-import art140 from "./images/53124_images/img140.png"
-import art141 from "./images/53124_images/img141.png"
-import art142 from "./images/53124_images/img142.png"
-import art143 from "./images/53124_images/img143.png"
-import art144 from "./images/53124_images/img144.png"
-import art145 from "./images/53124_images/img145.png"
-import art146 from "./images/53124_images/img146.png"
-import art147 from "./images/53124_images/img147.png"
-import art148 from "./images/53124_images/img148.png"
-import art149 from "./images/53124_images/img149.png"
-import art150 from "./images/53124_images/img150.png"
-import art151 from "./images/53124_images/img151.png"
-import art152 from "./images/53124_images/img152.png"
-import art153 from "./images/53124_images/img153.png"
-import art154 from "./images/53124_images/img154.png"
-import art155 from "./images/53124_images/img155.png"
-import art156 from "./images/53124_images/img156.png"
-
-
-
+import art2 from './images/53024/img100.png';
+import art3 from './images/53024/img101.png';
+import art4 from './images/53024/img102.png';
+import art5 from './images/53024/img103.png';
+import art6 from './images/53024/img104.png';
+import art7 from './images/53024/img105.png';
+import art8 from './images/53024/img106.png';
+import art9 from './images/53024/img107.png';
+import art10 from './images/53024/img108.png';
+import art11 from './images/53024/img109.png';
+import art12 from './images/53024/img110.png';
+import art13 from './images/53024/img111.png';
+import art14 from './images/53024/img112.png';
+import art15 from './images/53024/img113.png';
+import art16 from './images/53024/img114.png';
+import art17 from './images/53024/img115.png';
+import art18 from './images/53024/img116.png';
+import art19 from './images/53024/img117.png';
+import art20 from './images/53024/img118.png';
+import art21 from './images/53024/img119.png';
+import art22 from './images/53024/img120.png';
+import art23 from './images/53024/img121.png';
+import art24 from './images/53024/img122.png';
+import art25 from './images/53024/img123.png';
+import art26 from './images/53024/img124.png';
+import art27 from './images/53024/img125.png';
+import art28 from './images/53024/img126.png';
+import art29 from './images/53024/img90.png';
+import art30 from './images/53024/img91.png';
+import art31 from './images/53024/img92.png';
+import art32 from './images/53024/img93.png';
+import art33 from './images/53024/img94.png';
+import art34 from './images/53024/img95.png';
+import art35 from './images/53024/img96.png';
+import art36 from './images/53024/img97.png';
+import art37 from './images/53024/img98.png';
+import art38 from './images/53024/img99.png';
+import art39 from './images/53124_images/img127.png';
+import art40 from './images/53124_images/img128.png';
+import art41 from './images/53124_images/img129.png';
+import art42 from './images/53124_images/img130.png';
+import art43 from './images/53124_images/img131.png';
+import art44 from './images/53124_images/img132.png';
+import art45 from './images/53124_images/img133.png';
+import art46 from './images/53124_images/img134.png';
+import art47 from './images/53124_images/img135.png';
+import art48 from './images/53124_images/img136.png';
+import art49 from './images/53124_images/img137.png';
+import art50 from './images/53124_images/img138.png';
+import art51 from './images/53124_images/img139.png';
+import art52 from './images/53124_images/img140.png';
+import art53 from './images/53124_images/img141.png';
+import art54 from './images/53124_images/img142.png';
+import art55 from './images/53124_images/img143.png';
+import art56 from './images/53124_images/img144.png';
+import art57 from './images/53124_images/img145.png';
+import art58 from './images/53124_images/img146.png';
+import art59 from './images/53124_images/img147.png';
+import art60 from './images/53124_images/img148.png';
+import art61 from './images/53124_images/img149.png';
+import art62 from './images/53124_images/img150.png';
+import art63 from './images/53124_images/img151.png';
+import art64 from './images/53124_images/img152.png';
+import art65 from './images/53124_images/img153.png';
+import art66 from './images/53124_images/img154.png';
+import art67 from './images/53124_images/img155.png';
+import art68 from './images/53124_images/img156.png';
+import art69 from './images/A Hawaiian girl standing in a Diablo 4 setting.png';
+import art70 from './images/A Hawaiian girl standing in a Silent Hill setting .png';
+import art71 from './images/A Hawaiian girl standing in a scary sleep experiment setting.png';
+import art72 from './images/A Hawaiian girl standing in an Atlantis .png';
+import art73 from './images/A high contrast, gothic- The Tooth.png';
+import art74 from './images/A sketch of a Tree of Life .png';
+import art75 from './images/Annabelle cursed doll dancing on the moon.png';
+import art76 from './images/Chucky in a graveyard .png';
+import art77 from './images/Gothic style The hourglass .png';
+import art78 from './images/Sandman slow dancing in the streets of New York at night.png';
+import art79 from './images/The forest is dense with.png';
+import art80 from './images/Vicorian elementsfight.png';
+import art81 from './images/Victorian elements..png';
+import art82 from './images/Victorian elementsfire.png';
+import art83 from './images/a dark starry .png';
+import art84 from './images/a vintage air.png';
+import art85 from './images/anime_inernal.png';
+import art86 from './images/atmosphere is dark.png';
+import art87 from './images/badass art.png';
+import art88 from './images/battle between.png';
+import art89 from './images/battlefield.png';
+import art90 from './images/big-sister.png';
+import art91 from './images/body and.png';
+import art92 from './images/children demon hunter in Hell.png';
+import art93 from './images/chucky-little-sister-big-daddy .png';
+import art94 from './images/covered with f.png';
+import art95 from './images/deep regret and introspection. He.png';
+import art96 from './images/dense with tall.png';
+import art97 from './images/fierce battle takes place in the ocea.png';
+import art98 from './images/fiery, infernal landscape with towering flames,.png';
+import art99 from './images/fight.png';
+import art100 from './images/forest is dense with tall, shadowy trees and the groun.png';
+import art101 from './images/glowings fruit.png';
+import art102 from './images/ground is cover.png';
+import art103 from './images/he scene is somber and emotional, with the main.png';
+import art104 from './images/helping a soldier.png';
+import art105 from './images/helping a soldier2.png';
+import art106 from './images/helping a soldier3.png';
+import art107 from './images/holy big daddy.png';
+import art108 from './images/hourglass1.png';
+import art109 from './images/infernal landscap.png';
+import art110 from './images/inside a vintage.png';
+import art111 from './images/jail1.png';
+import art112 from './images/jail2.png';
+import art113 from './images/jail3.png';
+import art114 from './images/joined1.png';
+import art115 from './images/joined2.png';
+import art116 from './images/joined3.png';
+import art117 from './images/joined4.png';
+import art118 from './images/joined5.png';
+import art119 from './images/joined6.png';
+import art120 from './images/joined7.png';
+import art121 from './images/joined8.png';
+import art122 from './images/joined9.png';
+import art123 from './images/little-sister-show.png';
+import art124 from './images/molten lava ins.png';
+import art125 from './images/neon sketch of Zeus fighting a moon goddess.png';
+import art126 from './images/orror movie. The atmosphere is dark.png';
+import art127 from './images/post-apocalyptic elements. T.png';
+import art128 from './images/reaper1.png';
+import art129 from './images/reaper2.png';
+import art130 from './images/scaled tail.png';
+import art131 from './images/shadowy trees, and the ground is cove.png';
+import art132 from './images/shogun-eternal.png';
+import art133 from './images/sitting in.png';
+import art134 from './images/sitting in2.png';
+import art135 from './images/smile.png';
+import art136 from './images/smoke.png';
+import art137 from './images/spooky.png';
+import art138 from './images/steampunk cityscape love.png';
+import art139 from './images/sunlight, is perched near one.png';
+import art140 from './images/sunset, casting long shadows and a golde.png';
+import art141 from './images/the dance two.png';
+import art142 from './images/the dance.png';
+import art143 from './images/towering flames, jagged.png';
+import art144 from './images/walk1.png';
+import art145 from './images/walk2.png';
+import art146 from './images/walk3.png';
+import art147 from './images/walk4.png';
+import art148 from './images/warmly lit room.png';
+import art149 from './images/witch1.png';
+import art150 from './images/witch2.png';
+import art151 from './images/witch3.png';
+import art152 from './images/witch4.png';
+import art153 from './images/witch5.png';
+import art154 from './images/witch6.png';
+import art155 from './images/witch7.png';
+import art156 from './images/woman fighting demons in Hell..png';
+import art157 from './images/yet eerie Tooth Fairy and the Sandman slow dancing.png';
 
 const images = [
   art1,
@@ -235,6 +234,7 @@ const images = [
   art75,
   art76,
   art77,
+  art78,
   art79,
   art80,
   art81,
@@ -313,8 +313,7 @@ const images = [
   art154,
   art155,
   art156,
-
-  // Add more image imports here
+  art157
 ];
 
 export default images;
