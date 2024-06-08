@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import NavBar from './NavBar';
-import backgroundImage from '../../public/A visually appealing digitaures.png'; // Ensure the image file is in the correct directory
+import backgroundImage from '/A visually appealing digitaures.png'; // Ensure the image file is in the correct directory
 
 const Home = () => {
   return (
